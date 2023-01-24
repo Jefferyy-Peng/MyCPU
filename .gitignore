@@ -1,0 +1,14 @@
+# Hammer
+hammer-vlsi*.log
+output.json
+build
+
+# ASM/Benchmarks
+*.bin
+*.hex
+*.dump
+*.elf
+asm_output
+bmark_output
+*testvectors.input
+
